@@ -45,4 +45,4 @@ git config --edit --global
 ```
 -----
 
-[Basic Git Commands](https://github.com/chaushimran/GitHub_Fundamentals/edit/main/File/Git_cmd.md)
+[Basic Git Commands](https://github.com/chaushimran/GitHub_Fundamentals/blob/main/File/Git_cmd.md)
