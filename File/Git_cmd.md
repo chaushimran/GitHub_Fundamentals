@@ -9,3 +9,29 @@
 **`git add:`** This command is used to stage changes for committing. It prepares files to be included in the next commit. For example, git add filename stages a specific file, and git add . stages all modified files.
 
 **`git commit:`** Records changes made to the files in the repository. It creates a snapshot of the current state of the project.
+
+
+```
+mkdir ichaush3
+```
+```
+cd ichaush3
+```
+```
+git init
+```
+```
+pwd
+```
+```
+ls -larth
+```
+```
+git status
+```
+```
+code . readme.md
+```
+```
+git status
+```
