@@ -35,3 +35,36 @@ code . readme.md
 ```
 git status
 ```
+```
+git add readme.md
+```
+```
+git status
+```
+```
+git commit -m "some comment"
+```
+```
+git status
+```
+```
+code file1.md
+```
+```
+code file2.md
+```
+```
+code file3.md
+```
+```
+git add .
+```
+```
+git log
+```
+```
+git commit -am "new file message" 
+```
+```
+git log
+```
