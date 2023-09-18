@@ -44,4 +44,5 @@ Opens the global Git configuration file in the default text editor for editing.
 git config --edit --global
 ```
 -----
+
 [Basic Git Commands](https://github.com/chaushimran/GitHub_Fundamentals/edit/main/File/Git_cmd.md)
