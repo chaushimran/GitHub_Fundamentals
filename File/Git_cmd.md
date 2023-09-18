@@ -36,7 +36,7 @@ code . readme.md
 git status
 ```
 ```
-git add /Users/imranchaush/ichaush3/readme.md
+git add readme.md
 ```
 ```
 git status
